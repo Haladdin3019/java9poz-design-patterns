@@ -16,5 +16,9 @@ public class Application {
         Thread.sleep(100);
         consumerThread2.start();
 
+
+
+//        System.out.println(MyClock.getCurrentTime());
+
     }
 }
